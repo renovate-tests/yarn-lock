@@ -1,6 +1,9 @@
 {
   "enabled": true,
   "timezone": null,
+  "lockFileMaintenance: {
+    "schedule": []
+  },
   "schedule": [],
   "packageFiles": [],
   "depTypes": [
