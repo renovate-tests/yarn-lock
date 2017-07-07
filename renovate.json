@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "timezone": null,
-  "lockFileMaintenance: {
+  "lockFileMaintenance": {
     "schedule": []
   },
   "schedule": [],
