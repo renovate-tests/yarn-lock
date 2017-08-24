@@ -1,7 +1,7 @@
 {
   "lockFileMaintenance": {
     "enabled": true,
-    "recreatePrs": true,
+    "recreateClosed": true,
     "schedule": []
   }
 }
