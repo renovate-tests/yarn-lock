@@ -1,7 +1,7 @@
 {
+  "recreateClosed": true,
   "lockFileMaintenance": {
     "enabled": true,
-    "recreateClosed": true,
     "schedule": ["before 3am"]
   }
 }
