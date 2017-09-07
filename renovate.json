@@ -1,4 +1,5 @@
 {
+  "commitMessage": "Foo\n\nBar",
   "recreateClosed": true,
   "lockFileMaintenance": {
     "enabled": true,
