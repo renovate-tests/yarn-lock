@@ -1,8 +1,7 @@
 {
-  "commitMessage": "Foo\n\nBar",
   "recreateClosed": true,
+  "groupName": "all",
   "lockFileMaintenance": {
-    "enabled": true,
-    "schedule": []
+    "enabled": true
   }
 }
