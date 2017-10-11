@@ -1,7 +1,3 @@
 {
   "recreateClosed": true,
-  "groupName": "all",
-  "lockFileMaintenance": {
-    "enabled": true
-  }
 }
