@@ -21,6 +21,6 @@
   "license": "MIT",
   "devDependencies": {
     "koa-better-body": "2.0.0",
-    "enzyme": "1.0.0"
+    "enzyme": "2.9.1"
   }
 }
