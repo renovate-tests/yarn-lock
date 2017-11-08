@@ -20,6 +20,6 @@
   "bugs": "https://github.com/marmelab/admin-on-rest/issues",
   "license": "MIT",
   "devDependencies": {
-    "enzyme": "1.0.0"
+    "enzyme": "1.6.0"
   }
 }
