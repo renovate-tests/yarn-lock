@@ -20,7 +20,7 @@
   "bugs": "https://github.com/marmelab/admin-on-rest/issues",
   "license": "MIT",
   "devDependencies": {
-    "koa-better-body": "2.0.0",
+    "koa-better-body": "3.0.4",
     "enzyme": "1.0.0"
   }
 }
