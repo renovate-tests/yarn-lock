@@ -21,6 +21,6 @@
   "license": "MIT",
   "devDependencies": {
     "@rarkins/nothing": "1.0.0",
-    "enzyme": "3.0.0"
+    "enzyme": "3.3.0"
   }
 }
