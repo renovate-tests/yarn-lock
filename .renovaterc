@@ -1,5 +1,5 @@
 {
   "statusCheckVerify": true,
-  "packageFiles": ["package..js"],
+  "packageFiles": ["package.json", { "packageFile": "backend/package.json" }],
   "recreateClosed": true
 }
