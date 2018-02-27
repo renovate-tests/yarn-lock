@@ -1,4 +1,5 @@
 {
   "statusCheckVerify": true,
+  "packageFiles": ["package..js"],
   "recreateClosed": true
 }
