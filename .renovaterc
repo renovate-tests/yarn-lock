@@ -1,4 +1,4 @@
 {
-  "statusCheckVerify": 5,
+  "statusCheckVerify": true,
   "recreateClosed": true
 }
