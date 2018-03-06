@@ -19,7 +19,6 @@
   "homepage": "https://github.com/marmelab/admin-on-rest#readme",
   "bugs": "https://github.com/marmelab/admin-on-rest/issues",
   "license": "MIT",
-  "renovate": {"foo":1},
   "devDependencies": {
     "enzyme": "3.0.0"
   }
