@@ -1,7 +1,3 @@
 {
-  "extends": [":timezone(Europe/Brussels)"],
-  "schedule": "after 5pm",
-  "statusCheckVerify": true,
-  "packageFiles": ["package.json", { "packageFile": "backend/package.json" }],
   "recreateClosed": true
 }
