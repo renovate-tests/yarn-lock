@@ -20,7 +20,7 @@
   "bugs": "https://github.com/marmelab/admin-on-rest/issues",
   "license": "MIT",
   "devDependencies": {
-    "enzyme": "2.9.1"
+    "enzyme": "3.11.0"
   },
   "dependencies": {
     "chalk": "2.1.0"
